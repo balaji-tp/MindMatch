@@ -26,4 +26,3 @@ Full stack Memory Match game with JWT login, MongoDB score saving, leaderboard, 
 - Score history and leaderboard
 - MongoDB score persistence
 - Responsive dark-themed UI
-"# MEMORY-CARD_GAME" 
