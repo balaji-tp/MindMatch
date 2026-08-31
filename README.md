@@ -21,4 +21,3 @@ Full stack Memory Match game with JWT login, MongoDB score saving, leaderboard, 
 - Random shuffle each game
 - Flip animations and match detection
 - Timer, moves, score calculation
-- Win popup, restart button, difficulty levels
