@@ -18,4 +18,3 @@ Full stack Memory Match game with JWT login, MongoDB score saving, leaderboard, 
 ## Features
 
 - 4×4 card grid with 8 pairs
-- Random shuffle each game
